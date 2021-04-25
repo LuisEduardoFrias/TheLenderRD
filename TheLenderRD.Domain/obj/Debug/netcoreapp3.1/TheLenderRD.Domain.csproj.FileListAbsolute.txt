@@ -1,0 +1,9 @@
+C:\Users\LuisE\OneDrive\Escritorio\TheLenderRD\TheLenderRD.Domain\obj\Debug\netcoreapp3.1\TheLenderRD.Domain.AssemblyInfoInputs.cache
+C:\Users\LuisE\OneDrive\Escritorio\TheLenderRD\TheLenderRD.Domain\obj\Debug\netcoreapp3.1\TheLenderRD.Domain.AssemblyInfo.cs
+C:\Users\LuisE\OneDrive\Escritorio\TheLenderRD\TheLenderRD.Domain\obj\Debug\netcoreapp3.1\TheLenderRD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LuisE\OneDrive\Escritorio\TheLenderRD\TheLenderRD.Domain\bin\Debug\netcoreapp3.1\TheLenderRD.Domain.deps.json
+C:\Users\LuisE\OneDrive\Escritorio\TheLenderRD\TheLenderRD.Domain\bin\Debug\netcoreapp3.1\TheLenderRD.Domain.dll
+C:\Users\LuisE\OneDrive\Escritorio\TheLenderRD\TheLenderRD.Domain\bin\Debug\netcoreapp3.1\TheLenderRD.Domain.pdb
+C:\Users\LuisE\OneDrive\Escritorio\TheLenderRD\TheLenderRD.Domain\obj\Debug\netcoreapp3.1\TheLenderRD.Domain.dll
+C:\Users\LuisE\OneDrive\Escritorio\TheLenderRD\TheLenderRD.Domain\obj\Debug\netcoreapp3.1\TheLenderRD.Domain.pdb
+C:\Users\LuisE\OneDrive\Escritorio\TheLenderRD\TheLenderRD.Domain\bin\Debug\netcoreapp3.1\TheLenderRD.Domain.dll.config
